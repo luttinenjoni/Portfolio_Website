@@ -1,0 +1,19 @@
+.about {
+    flex-direction: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    border: 1px;
+    border-radius: 20px;
+    background-color: #837A75;
+    padding: 25px;
+    margin: 0 auto;
+    max-width: 650px;
+  }
+
+/* {
+  colors: 
+  primary2: 837A75
+  green1: ACC18A
+  green2: DAFEB7
+}

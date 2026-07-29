@@ -1,11 +1,7 @@
-.navbar {
-    padding: 1rem 0;
-}
-
-.container {
-    padding: 10px 20px;
-    background-color: #DAFEB7;
-    border-radius: 10px;
+.container-fluid {
+    padding: 20px 30px;
+    border-radius: 20px;
+    background-color: #ACC18A;
 }
 
 .navbar-brand {

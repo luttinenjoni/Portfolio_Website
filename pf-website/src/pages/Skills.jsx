@@ -1,14 +1,14 @@
 import "../styles/Skills.css";
 
-function skills() {
+function Skills() {
   return (
         <>    
         <div className="container skills">
             <h2>Skills</h2>
-            <p>asdasdasd</p>
+            <p>lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
         </div>
         </>
     )
 }
 
-export default skills
+export default Skills

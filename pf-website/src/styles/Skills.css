@@ -1,4 +1,5 @@
 .container.skills {
+    display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -8,7 +9,7 @@
     padding: 25px;
     margin: 0 auto;
     margin-top: 20px;
-    max-width: 650px;
+    max-width: auto;
   }
 
 /* {

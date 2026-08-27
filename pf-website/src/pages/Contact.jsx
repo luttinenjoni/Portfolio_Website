@@ -1,17 +1,24 @@
 import "../styles/Contact.css";
 
-function contact() {
+function Contact() {
   return (
         <>   
         <section id="contact">        
             <div className="container contact">
             <h2>Contact</h2>
-            <p>lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            </div>
-        </section> 
-
+            <p>Email: joni.luttinen@gmail.com</p>
+            <p>Phone: 040 6688575</p>
+            <a href="https://github.com/luttinenjoni" className="card-link">
+              Link to github
+            </a>
+            <p></p>
+            <a href="https://www.instagram.com/tastyapples_" className="card-link">
+              Link to instagram
+            </a>
+          </div>
+        </section>
         </>
     )
 }
 
-export default contact
+export default Contact

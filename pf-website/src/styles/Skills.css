@@ -1,7 +1,6 @@
 .container.skills {
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: center;
     border: 1px;
     border-radius: 20px;

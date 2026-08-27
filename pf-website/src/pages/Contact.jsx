@@ -6,7 +6,7 @@ function Contact() {
         <section id="contact">        
             <div className="container contact">
             <h2>Contact</h2>
-            <p>Email: joni.luttinen@gmail.com</p>
+            <p>Email: luttinenjoni@gmail.com</p>
             <p>Phone: 040 6688575</p>
             <a href="https://github.com/luttinenjoni" className="card-link">
               Link to github

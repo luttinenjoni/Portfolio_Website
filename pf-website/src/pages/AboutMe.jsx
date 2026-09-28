@@ -1,9 +1,11 @@
 import "../styles/AboutMe.css";
+import picture from "../assets/CV-kuva.jpg";
 
-function aboutMe() {
+function AboutMe() {
   return (
         <>    
         <section id="aboutMe">
+        <img src={picture} alt="Profile picture" />
         <div className="container about">
             <h2>About Me</h2>
             <p>Hello! My name is Joni Luttinen and I am a senior student at Oulu university Of Applied Sciences.</p>
@@ -14,4 +16,4 @@ function aboutMe() {
     )
 }
 
-export default aboutMe
+export default AboutMe

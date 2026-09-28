@@ -1,7 +1,8 @@
 .container-fluid {
-    padding: 15px 15px;
+    padding: 12px 10px;
     border-radius: 25px;
-    background-color: #ACC18A;
+    border: 3px solid #ACC18A;
+    background-color: #fff;
 }
 
 .navbar-brand {
